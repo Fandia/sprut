@@ -2,8 +2,8 @@
 =========
 
 .. image:: https://readthedocs.org/projects/sprut/badge/?version=latest
-:target: http://sprut.readthedocs.io/en/latest/?badge=latest
-:alt: Documentation Status
+	:target: http://sprut.readthedocs.io/en/latest/?badge=latest
+	:alt: Documentation Status
 
 **sprut** is a simple python-module for brute-force attacks, that can be used in your scripts.
 
