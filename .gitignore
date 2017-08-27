@@ -1,1 +1,2 @@
-sprut.pyc
+*.pyc
+/docs/build
